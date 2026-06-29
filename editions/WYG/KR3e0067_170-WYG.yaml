@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0067/WYG/v1/juan/170
+seq: 170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謹案卷一百七十第四頁前一行若金瘡誤入生水原本入訛分今改
+  hash: sha256:438f2702291f23cfba37ecfe79ddf60549ff227699b7712ed4511c7d222d1fd5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0067_WYG_170-1a, image: WYG0752/WYG0752-0652a.png}
+metadata:
+  title: 普濟方
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:06:59.909337'
+  juan_title: 卷一百七十考證
+  source:
+    repository: kanripo
+    path: KR3e0067/KR3e0067_170.txt
+hash: sha256:b3f290eaaa935c161fca85fa5122e9175a597c752f814c06f4e4c5a840e4be91
